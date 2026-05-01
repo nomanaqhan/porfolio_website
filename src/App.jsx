@@ -4,7 +4,7 @@ function App() {
   const portfolioData = {
     name: 'Nomana Khan',
     role: 'Senior UI/UX Designer',
-    location: 'Jubilee Town, Lahore',
+    location: 'Bahria Town, Lahore',
     phone: '+92 336 4528681',
     email: 'nomanaqhan45@gmail.com',
     behance: 'https://www.behance.net/nomanaqhan',
